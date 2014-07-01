@@ -11,5 +11,5 @@ However, you soon realize you can't publish any updates to this app because you 
 
 The purpose of this shim is to be the final hoorah for the old version of the app.  Adjust the package names accordingly, compile and politely ask the original developer to sign this new app for you.  If he/she does, then you can post this to the store and users will be prompted to install the new app the first time they launch the app after installing the update.
 
-####Seriously?
+#####Seriously?
 Unfortunately, yes.
