@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Old App Name</string>
+
+    <string name="upgradeHeaderText">Upgrade App?</string>
+    <string name="upgradeBodyText">
+        This application has been replaced by a shiny new version! Please click on the Google Play
+        button below to install the new app.
+        \n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+        in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
+        sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum."
+    </string>
+
+    <string name="uninstallHeaderText">Cleanup Time!</string>
+    <string name="uninstallBodyText">
+        The new app is available in the App Drawer. Click the button below to remove the old app and
+        free up device memory.
+        \n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+        in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
+        sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum."
+    </string>
+
+    <string name="uninstallButtonText">Delete Old App</string>
+
+</resources>
